@@ -8,6 +8,14 @@ public static void main(string[] args){
 
 
 system.out.println("Ths is the second file for prograM")
+
+
+system.out.println("second line is add for commited file in git")
+
+
+
+
+system.out.println("third lind is add for commit")
 }
 }
  
